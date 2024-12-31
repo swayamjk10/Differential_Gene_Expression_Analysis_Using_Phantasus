@@ -4,7 +4,8 @@ R script for interactive gene expression analysis with phantasus. Enables data t
 
 # 🌟 Differential Gene Expression Analysis Using Phantasus 🌟
 
-![phantasus](Capture.PNG)
+![phantasus](![Capture](https://github.com/user-attachments/assets/ffb485ba-b293-460e-92e0-e31a36f795df)
+)
 
 This project demonstrates how to perform interactive gene expression analysis using the powerful `phantasus` package. 🎉
 
