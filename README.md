@@ -1,0 +1,2 @@
+# Differential_Gene_Expression_Analysis_Using_Phantasus
+R script for interactive gene expression analysis with phantasus. Enables data transformation, anotation, normalization, and visualization through a web interface. Helps bioinformatics researchers identify significant genes and gain biological insights efficiently. Differential expression analysis, clustering &amp; pathway analysis can be performed.
